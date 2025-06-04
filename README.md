@@ -24,13 +24,6 @@
 
 ---
 
-## 🔥 Contribution Graph (WORKS!)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gauravpandit27&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
 
 ## 🏗️ Projects Snapshot
 
