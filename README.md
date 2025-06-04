@@ -18,8 +18,8 @@
 ## 📈 GitHub Stats 
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gauravpandit27&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gauravpandit27&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="51%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gauravpandit27&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="46%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gauravpandit27&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
