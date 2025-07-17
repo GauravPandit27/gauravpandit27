@@ -10,7 +10,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,flask,powerbi,yolo,github,vscode,linux,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,flask,github,vscode,linux,html,css,js" />
 </p>
 
 ---
