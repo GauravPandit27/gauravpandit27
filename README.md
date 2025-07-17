@@ -15,9 +15,6 @@
 
 ---
 
----
-
-
 ## 🏗️ Projects Snapshot
 
 | 🚀 Project      | ⚡ Description |
