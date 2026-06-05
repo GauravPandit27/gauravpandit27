@@ -21,8 +21,8 @@ Forget the usual lists of programming languages and frameworks—you can check o
 ## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravPandit27&show_icons=true&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravPandit27&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GauravPandit27&show_icons=true&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=GauravPandit27&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Streak" width="48%" />
 </p>
 
 ---
