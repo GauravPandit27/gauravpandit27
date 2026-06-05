@@ -7,35 +7,59 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🕵️‍♂️ The Mind Behind the Code
+
+Forget the usual lists of programming languages and frameworks—you can check out my repositories if you want to see my tech stack. Here's what actually drives me:
+
+- 🧠 **The Vision:** Transforming India into an AI-first ecosystem.
+- 🏢 **The Mission:** As the Founder of **PAIRS**, I'm building smart, automated ecosystems for the retail space. From zone heatmaps and multi-camera shopper tracking to theft detection and AI-powered inventory.
+- ⚡ **The Mindset:** Dreaming Big. Executing Smart. If there's data to be captured, I want to control it, analyze it, and extract its deepest secrets.
+- 💡 **The Philosophy:** *"If you can automate it, why human it?"*
+
+---
+
+## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,flask,github,vscode,linux,html,css,js" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravpandit07&show_icons=true&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpandit07&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Streak" width="48%" />
 </p>
 
 ---
 
-## 🏗️ Projects Snapshot
+## 🐍 Watch My AI Snake Devour My Contributions!
+*(This snake is automatically generated based on my real GitHub commit history!)*
 
-| 🚀 Project      | ⚡ Description |
-|----------------|---------------|
-| **Dr. ASTAN**  | Zone heatmaps, multi-camera shopper tracking, RNN forecasting |
-| **InventoryAI**| AI-powered inventory monitoring & prediction (coming soon) |
-| **SecureMall** | Theft detection system using Kalman filters + DeepSORT |
-| **FaceMoodAI** | Real-time emotion + face analysis |
-| **ROI Visualizer** | Dynamic ROI drawing and retail behavior insights |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravpandit07/gauravpandit07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravpandit07/gauravpandit07/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gauravpandit07/gauravpandit07/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
-## 📬 Connect With Me
+## 🎮 Let's Play Connect4!
+*(Powered by GitHub Actions! Click on a column number to drop your disc. The board will update automatically.)*
+
+| 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 6️⃣ | 7️⃣ |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+
+**[Click here to start a new game!](https://github.com/gauravpandit07/gauravpandit07/issues/new?title=connect4%7Cnew&body=Just+push+%27Submit+new+issue%27.)**
+
+---
+
+## 📬 Drop a Ping
 
 <p align="center">
   <a href="https://linkedin.com/in/gauravpandit07"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/gauravpandit07"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:gauravpanditoffical@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-> 🧠 *“If you can automate it, why human it?”*  
-> 💼 *On a mission to control data, automate inefficiency, and build an AI-first India.*
