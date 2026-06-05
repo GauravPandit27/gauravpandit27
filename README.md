@@ -21,8 +21,8 @@ Forget the usual lists of programming languages and frameworks—you can check o
 ## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravpandit07&show_icons=true&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpandit07&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravPandit27&show_icons=true&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravPandit27&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Streak" width="48%" />
 </p>
 
 ---
@@ -32,27 +32,13 @@ Forget the usual lists of programming languages and frameworks—you can check o
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravpandit07/gauravpandit07/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravpandit07/gauravpandit07/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gauravpandit07/gauravpandit07/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GauravPandit27/GauravPandit27/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GauravPandit27/GauravPandit27/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GauravPandit27/GauravPandit27/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
----
 
-## 🎮 Let's Play Connect4!
-*(Powered by GitHub Actions! Click on a column number to drop your disc. The board will update automatically.)*
-
-| 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 6️⃣ | 7️⃣ |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-
-**[Click here to start a new game!](https://github.com/gauravpandit07/gauravpandit07/issues/new?title=connect4%7Cnew&body=Just+push+%27Submit+new+issue%27.)**
 
 ---
 
